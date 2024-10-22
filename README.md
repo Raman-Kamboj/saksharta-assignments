@@ -15,6 +15,7 @@ In a file called indoor.py, implement a program in Python that prompts the user 
 
 Hints:
 Recall that input returns a str, per [documentation](docs.python.org/3/library/functions.html#input).
+
 Recall that a str comes with quite a few methods, per [documentation](docs.python.org/3/library/stdtypes.html#string-methods).
 
 ### Program No. 2
@@ -27,6 +28,7 @@ In a file called ```playback.py```, implement a program in Python that prompts t
 
 Hints:
 Recall that input returns a str, per [documentation](docs.python.org/3/library/functions.html#input).
+
 Recall that a str comes with quite a few methods, per [documentation](docs.python.org/3/library/stdtypes.html#string-methods).
 
 [Demo](https://youtu.be/Z2CO9t8ZIWY?si=H3XDA7kId90XNwfO)
